@@ -1,0 +1,10 @@
+D:\PrgINI\EjemploWhile\EjemploWhile\bin\Debug\EjemploWhile.exe.config
+D:\PrgINI\EjemploWhile\EjemploWhile\bin\Debug\EjemploWhile.exe
+D:\PrgINI\EjemploWhile\EjemploWhile\bin\Debug\EjemploWhile.pdb
+D:\PrgINI\EjemploWhile\EjemploWhile\obj\Debug\EjemploWhile.csprojAssemblyReference.cache
+D:\PrgINI\EjemploWhile\EjemploWhile\obj\Debug\EjemploWhile.EjemploWhile.resources
+D:\PrgINI\EjemploWhile\EjemploWhile\obj\Debug\EjemploWhile.Properties.Resources.resources
+D:\PrgINI\EjemploWhile\EjemploWhile\obj\Debug\EjemploWhile.csproj.GenerateResource.cache
+D:\PrgINI\EjemploWhile\EjemploWhile\obj\Debug\EjemploWhile.csproj.CoreCompileInputs.cache
+D:\PrgINI\EjemploWhile\EjemploWhile\obj\Debug\EjemploWhile.exe
+D:\PrgINI\EjemploWhile\EjemploWhile\obj\Debug\EjemploWhile.pdb
